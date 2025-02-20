@@ -74,21 +74,6 @@ Two models were trained and evaluated:
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-financial-news.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or Python script:
-   ```bash
-   jupyter notebook Sentiment_Analysis_of_financial_news.ipynb
-   ```
-4. Follow the steps in the notebook to preprocess the data, train the models, and evaluate the results.
-
 ---
 
 ## Future Work
