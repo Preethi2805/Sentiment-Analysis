@@ -1,15 +1,6 @@
 # Sentiment Analysis of Financial News
 
-This project focuses on performing sentiment analysis on financial news headlines using machine learning models. The goal is to classify the sentiment of financial news into three categories: **Positive**, **Negative**, or **Neutral**. The dataset used is the **Financial PhraseBank** from Kaggle, which contains financial news headlines labeled with their corresponding sentiment.
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
+The goal is to classify the sentiment of financial news into three categories: **Positive**, **Negative**, or **Neutral**. The dataset used is the **Financial PhraseBank** from Kaggle, which contains financial news headlines labeled with their corresponding sentiment.
 
 ---
 
